@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scott-Reid
 - 👀 I’m interested in ...Sports, Fitness, Web Development, and Investing.
-- 🌱 I’m currently learning ...JavaScript.
+- 🌱 I’m currently learning ...Swift.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
