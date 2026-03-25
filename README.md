@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Scott-Reid
-- 👀 I’m interested in ...Sports, Fitness, Web Development, and Investing.
-- 🌱 I’m currently learning ...Swift.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-# Hi, I'm Scott 👋
+Hi, I'm Scott 👋
 
 I'm a product builder based in Saint John, NB, Canada.  
 
